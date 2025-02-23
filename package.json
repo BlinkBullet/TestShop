@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "store.js",
+  "scripts": {
+    "test": "tesst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlinkBullet/TestShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlinkBullet/TestShop/issues"
+  },
+  "homepage": "https://github.com/BlinkBullet/TestShop#readme"
+}
